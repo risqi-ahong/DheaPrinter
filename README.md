@@ -1,131 +1,131 @@
-# 🖨️ Dhea Printer - Landing Page
+# 🖨️ Dhea Printer - Landing Page Toko Printer
 
-Selamat datang di landing page **Dhea Printer**, toko printer terpercaya di Semarang!
+Selamat datang di **Dhea Printer**, toko printer terpercaya di Semarang!
 
-## 📋 Deskripsi
+## 📋 Deskripsi Proyek
 
-Dhea Printer adalah toko penjualan printer berkualitas tinggi dari merek-merek ternama seperti HP, Canon, Epson, dan Brother. Website ini menyediakan katalog lengkap produk printer dengan spesifikasi detail dan harga kompetitif.
+Dhea Printer adalah website landing page profesional untuk toko penjualan printer berkualitas tinggi. Website ini menampilkan:
+- Profil toko dengan informasi lengkap
+- Katalog 8 produk printer dari merek ternama (HP, Canon, Epson, Brother)
+- Spesifikasi detail setiap produk
+- Sistem kontak dan pemesanan via WhatsApp
+- Desain modern dan responsif
 
 ## ✨ Fitur Utama
 
-- **Profil Toko**: Informasi lengkap tentang Dhea Printer
-- **Katalog Produk**: 8 produk printer pilihan dari berbagai merek
-  - HP DeskJet & LaserJet
-  - Canon PIXMA & imageCLASS
-  - Epson EcoTank & WorkForce
-  - Brother HL & MFC series
-- **Spesifikasi Detail**: Setiap produk dilengkapi dengan spesifikasi lengkap
-- **Kontak Langsung**: Tombol WhatsApp untuk pemesanan cepat
-- **Informasi Lokasi**: Alamat toko dan peta lokasi
-- **Jam Operasional**: Jadwal buka tutup toko
-- **Form Kontak**: Kirim pesan langsung via WhatsApp
-- **Desain Modern**: Interface yang menarik dengan animasi halus
-- **Responsive**: Kompatibel dengan semua perangkat (desktop, tablet, mobile)
+✅ **Navigasi Modern** - Menu sticky dengan animasi halus
+✅ **Hero Section** - Tampilan spektakuler dengan gradient background
+✅ **Profil Toko** - Informasi lengkap tentang Dhea Printer
+✅ **Katalog Produk** - 8 produk printer dengan gambar, spesifikasi, harga, dan tombol pemesanan
+✅ **Kontak & Lokasi** - Alamat, telepon, jam operasional, dan form kontak
+✅ **Desain Modern** - Animasi smooth, gradient backgrounds, dan hover effects
+✅ **Responsive Design** - Optimal untuk desktop, tablet, dan smartphone
+✅ **WhatsApp Integration** - Pemesanan dan kontak langsung via WhatsApp
 
 ## 📍 Informasi Toko
 
-- **Nama**: Dhea Printer
-- **Alamat**: JL. Talang Candi Stom No.74, Semarang
-- **Telepon**: 088215102978
-- **Jam Operasional**: Buka Setiap Hari, 09:00 - 18:00 WIB
-- **Istirahat**: 12:00 - 13:00 WIB
+| Item | Detail |
+|------|--------|
+| Nama | Dhea Printer |
+| Alamat | JL. Talang Candi Stom No.74, Semarang |
+| Telepon | 088215102978 |
+| Email | info@dheaprinter.com |
+| Jam Buka | Setiap hari 09:00 - 18:00 WIB |
+| Istirahat | 12:00 - 13:00 WIB |
 
-## 🛍️ Produk yang Dijual
+## 🛍️ Produk yang Dijual (8 Produk)
 
-### HP
-1. **HP DeskJet 2720** - Rp 1.299.000 (Inkjet All-in-One)
-2. **HP LaserJet Pro M404** - Rp 3.499.000 (Laser Monokrom)
+### HP (2 produk)
+- **HP DeskJet 2720** - Rp 1.299.000 (Inkjet All-in-One)
+- **HP LaserJet Pro M404** - Rp 3.499.000 (Laser Monokrom)
 
-### Canon
-1. **Canon PIXMA TR4720** - Rp 1.599.000 (Inkjet All-in-One)
-2. **Canon imageCLASS MF445dw** - Rp 4.299.000 (Laser Multifungsi)
+### Canon (2 produk)
+- **Canon PIXMA TR4720** - Rp 1.599.000 (Inkjet All-in-One)
+- **Canon imageCLASS MF445dw** - Rp 4.299.000 (Laser Multifungsi)
 
-### Epson
-1. **Epson EcoTank L3110** - Rp 2.199.000 (Inkjet Hemat Tinta)
-2. **Epson WorkForce Pro WF-C5790** - Rp 5.999.000 (Inkjet Profesional)
+### Epson (2 produk)
+- **Epson EcoTank L3110** - Rp 2.199.000 (Inkjet Hemat Tinta)
+- **Epson WorkForce Pro WF-C5790** - Rp 5.999.000 (Inkjet Profesional)
 
-### Brother
-1. **Brother HL-L2350DW** - Rp 1.899.000 (Laser Monokrom)
-2. **Brother MFC-L8690CDW** - Rp 6.499.000 (Laser Multifungsi Warna)
+### Brother (2 produk)
+- **Brother HL-L2350DW** - Rp 1.899.000 (Laser Monokrom)
+- **Brother MFC-L8690CDW** - Rp 6.499.000 (Laser Multifungsi Warna)
 
 ## 🚀 Cara Menggunakan
 
-1. Buka halaman website di browser
-2. Jelajahi katalog produk di bagian "Produk"
-3. Klik "Pesan Sekarang" untuk produk yang diminati
-4. Akan otomatis terbuka WhatsApp untuk menghubungi Dhea Printer
-5. Atau gunakan form kontak untuk mengirim pertanyaan
+### Opsi 1: Buka File Lokal
+```bash
+1. Download/clone repository
+2. Buka file index.html di browser
+3. Website siap digunakan!
+```
 
-## 💻 Teknologi yang Digunakan
+### Opsi 2: Akses Online (GitHub Pages)
+Website live di: **https://risqi-ahong.github.io/DheaPrinter/**
 
-- **HTML5** - Struktur halaman
-- **CSS3** - Styling dan animasi modern
-- **JavaScript** - Interaktivitas dan fitur dinamis
-- **Font Awesome** - Icon library
-- **Unsplash** - Gambar produk
-
-## 📱 Fitur Responsif
-
-Website ini dirancang untuk bekerja sempurna di:
-- Desktop (1200px ke atas)
-- Tablet (768px - 1200px)
-- Mobile (480px - 768px)
-- Smartphone (dibawah 480px)
-
-## 🎨 Desain
-
-- **Warna Primer**: Biru (#2563eb)
-- **Warna Sekunder**: Biru Gelap (#1e40af)
-- **Warna Aksen**: Kuning Emas (#f59e0b)
-- **Font**: Segoe UI, Tahoma, Geneva, Verdana
-- **Efek**: Animasi smooth, hover effects, dan transisi mulus
+### Opsi 3: Jelajahi Website
+- Scroll untuk melihat semua section
+- Klik menu navigasi untuk langsung ke section
+- Klik "Pesan Sekarang" untuk kontak via WhatsApp
+- Isi form kontak untuk mengirim pesan
 
 ## 📁 Struktur File
 
 ```
 DheaPrinter/
-├── index.html      # File HTML utama
-├── styles.css      # File CSS untuk styling
-├── script.js       # File JavaScript untuk interaktivitas
-└── README.md       # Dokumentasi
+├── index.html          # Halaman utama (15.4 KB)
+├── styles.css          # File CSS styling (11.3 KB)
+├── script.js           # File JavaScript interaktif (5.5 KB)
+└── README.md           # Dokumentasi
 ```
 
-## 🔗 Link Penting
+## 💻 Teknologi yang Digunakan
 
-- **Website**: https://risqi-ahong.github.io/DheaPrinter
-- **Repository**: https://github.com/risqi-ahong/DheaPrinter
-- **WhatsApp**: https://wa.me/62882151029789
+- **HTML5** - Struktur semantik halaman
+- **CSS3** - Styling modern (Flexbox, Grid, Animations)
+- **JavaScript (Vanilla)** - Interaktivitas tanpa framework
+- **Font Awesome 6.4** - Icon library profesional
+- **Unsplash** - Gambar produk berkualitas tinggi
+- **GitHub Pages** - Hosting gratis
 
-## 📞 Hubungi Kami
+## 🎨 Desain & Warna
 
-- **Telepon**: 088215102978
-- **Email**: info@dheaprinter.com
-- **Alamat**: JL. Talang Candi Stom No.74, Semarang
+| Elemen | Warna | Hex Code |
+|--------|-------|----------|
+| Primary | Biru | #2563eb |
+| Secondary | Biru Gelap | #1e40af |
+| Accent | Kuning Emas | #f59e0b |
+| Text Dark | Abu-abu Gelap | #1f2937 |
+| Background | Abu-abu Terang | #f9fafb |
 
-## ⚙️ Cara Menjalankan
+## 📱 Responsive Breakpoints
 
-1. Clone repository ini
-2. Buka file `index.html` di browser
-3. Website siap digunakan!
+- ✅ Desktop: 1200px ke atas
+- ✅ Tablet: 768px - 1200px
+- ✅ Mobile: 480px - 768px
+- ✅ Smartphone: di bawah 480px
 
-Tidak perlu server atau setup apapun. Website berjalan secara lokal di browser Anda.
+## 🔧 Fitur JavaScript
 
-## 🌐 Deploy ke GitHub Pages
+- Smooth scrolling ke section
+- Mobile hamburger menu
+- WhatsApp integration untuk pemesanan
+- Animasi on scroll
+- Dynamic navbar shadow effect
+- Form kontak ke WhatsApp
 
-Website ini sudah siap di-deploy ke GitHub Pages:
+## 🌐 Link Penting
 
-1. Pergi ke Settings repository
-2. Scroll ke bagian "GitHub Pages"
-3. Pilih branch "main" dan folder "root"
-4. Klik Save
-5. Website akan tersedia di: `https://risqi-ahong.github.io/DheaPrinter`
+- **Repository GitHub**: https://github.com/risqi-ahong/DheaPrinter
+- **Live Website**: https://risqi-ahong.github.io/DheaPrinter/
+- **WhatsApp Direct**: https://wa.me/62882151029789
 
-## 📝 Notes
+## 📝 Catatan
 
-- Gambar produk diambil dari Unsplash (placeholder)
+- Gambar produk menggunakan placeholder dari Unsplash
 - Harga dapat diubah sesuai kebutuhan
-- Form kontak terintegrasi dengan WhatsApp
-- Tombol pesan langsung membuka WhatsApp dengan template pesan otomatis
+- Nomor WhatsApp dapat disesuaikan kapan saja
+- Semua kontak dapat diperbarui di file HTML
 
 ## 📄 Lisensi
 
@@ -133,6 +133,7 @@ Bebas digunakan untuk keperluan pribadi atau komersial.
 
 ---
 
-**Dibuat dengan ❤️ untuk Dhea Printer**
+**© 2024 Dhea Printer. Semua hak dilindungi.**
 
-Terakhir diperbarui: 13 Juli 2026
+Dibuat dengan ❤️ oleh risqi-ahong  
+Terakhir diupdate: 13 Juli 2026
