@@ -1,0 +1,15 @@
+theme: null
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - index.html
+  - styles.css
+  - script.js
+  - manifest.json
+exclude:
+  - .github
+  - .gitignore
